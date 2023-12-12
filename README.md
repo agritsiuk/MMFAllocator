@@ -1,2 +1,3 @@
 # MMFAllocator
-Memory-mapped file allocator
+
+Memory-mapped file allocator C++ library

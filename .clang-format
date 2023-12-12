@@ -1,0 +1,9 @@
+Language: Cpp
+BasedOnStyle: Google
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 120
+IndentWidth: 4
+AccessModifierOffset: -2
+AllowShortFunctionsOnASingleLine: Empty
+SortIncludes: false
